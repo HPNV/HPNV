@@ -70,11 +70,3 @@ A **Tech Enthusiast** passionate about backend development, databases, and AI.
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=HPNV&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HPNV&theme=prussian&hide_border=false&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HPNV&theme=prussian&hide_border=false&layout=compact)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=HPNV&icon=0&color=0)

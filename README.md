@@ -67,7 +67,6 @@ A **Tech Enthusiast** passionate about backend development, databases, and AI.
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexander%20Ivan%20Gumilang)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/HPNV)
 
 ---
 
